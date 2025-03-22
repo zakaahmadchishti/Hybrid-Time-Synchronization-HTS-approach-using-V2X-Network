@@ -4,25 +4,16 @@ Time Synchronization using Flooding Time Synchronization(FTSP)
 ### February 2023
 ### Copyright © 2023 by Zaka Ahmed
 
-All rights reserved. No part of this thesis may be reproduced, distributed, or transmitted in any
-form or by any means, including photocopying, recording, or other electronic or mechanical
-methods, by any information storage and retrieval system without the prior written permission
-of the author.
+All rights reserved. No part of this thesis may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, by any information storage and retrieval system without the prior written permission of the author. This is not an original version it's changed for public display.
 
 
 ### ABSTRACT
 
-In wireless networks, time synchronization is crucial for basic communication as well as for
-the detection of movement, proximity, and position. Time synchronization means the
-distribution of time across clocks in a network. There are two types of time synchronization
-wire and wireless synchronization. In wired synchronization, we have a master clock which is
-connected with the child clock using an ethernet connection. Whereas on the other hand,
-instead of an ethernet cable between master and slave, a wireless connection is established
-between all devices.
+In wireless networks, time synchronization is crucial for basic communication as well as for the detection of movement, proximity, and position. Time synchronization means the distribution of time across clocks in a network. There are two types of time synchronization wire and wireless synchronization. In wired synchronization, we have a master clock which is connected with the child clock using an ethernet connection. On the other hand, instead of an ethernet cable between master and slave, a wireless connection is established between all devices.
 
 In both wired and wireless networks, time synchronization is crucial. It enables effective
 communication between network nodes. However, it is crucial for wireless networks in
-particular. A TDMA(Time Division Multiple Acess) techniques can be used over a multi-hop
+particular. A TDMA(Time Division Multiple access) techniques can be used over a multi-hop
 wireless network thanks to synchronization in the wireless nodes. Numerous uses of wireless
 time synchronization exist, including those related to location, closeness, energy conservation,
 and mobility, to name a few.
